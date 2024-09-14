@@ -23,6 +23,6 @@
 
 ### 📫 Связаться со мной:
 
-- Email: [alexandr.developer.it@yandex.ru](alexandr.developer.it@yandex.ru)
+- Email: [alexandr.developer.it@yandex.ru]
 - Telegram: [https://t.me/gasparLemark](https://t.me/gasparLemark)
 - Instagtam: [@alexandr.diamond](https://www.instagram.com/alexandr.diamond/)
