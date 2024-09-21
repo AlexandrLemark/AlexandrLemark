@@ -10,7 +10,8 @@
 
 ###
 
-<h3>Я Фронтенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h3>
+<h2>Я Фронтенд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"></h3>
+
 
 <h3 align="left">🛠 Технологии которыми я владею:</h3>
 
